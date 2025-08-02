@@ -5,6 +5,7 @@ public class findLength
         String name="Hello";
         //int length = name.length();
         System.out.println(name.length());
+        System.out.println("");
 
     }
 }
